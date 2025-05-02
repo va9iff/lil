@@ -171,7 +171,7 @@ lil.map {
 ## Quick start (Lazy)
 ```lua
 return {
-	"va9iff/lil.map",
+	"va9iff/lil",
 	config = function()
         local lil = require("lil")
         local opts = lil.flags.opts
